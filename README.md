@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mayank Thukral</h1>
 <h3 align="center">A passionate DevOps Engineer Currently enrolled in Devops for cloud computing</h3>
 
-- 🔭 I’m currently working on [Deplying Microservices using Kubernetes](https://github.com/mayank91091/Microservices-Api.git)
+- 🔭 I’m currently working on [Deploying CRM website using terraform on Azure Kubernetes Service](https://github.com/mayank91091/Microservices-Api.git)
 
 - 🌱 I’m currently learning **Django, Terraform**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mayank91091/Microservices-Api.git](https://github.com/mayank91091/Microservices-Api.git)
+- 👨‍💻 All of my projects are available at [https://github.com/mayank91091/3-tier-Application.git](https://github.com/mayank91091/3-tier-Application.git)
 
 - 💬 Ask me about **Devops**
 
